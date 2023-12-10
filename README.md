@@ -1,2 +1,2 @@
 # Visualize-Flight-Delays-Using-Tableau-Dashboards
-My goal in this project was to create visualizations to reveal insights from a data set highlighting Flight Delays.
+My goal in this project was to create visualizations to reveal insights from a data set highlighting Flight Delays. I created data visualizations that tell a story or highlight patterns in the data set. My work is a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
